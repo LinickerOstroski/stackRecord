@@ -246,12 +246,14 @@ public class FormularioPrincipal extends javax.swing.JFrame {
     private void btn_limparMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btn_limparMouseClicked
 
         // Desempilhando tudo
-        while (!pilha.isEmpty() && !pilhaDesempilha.isEmpty()) {
+        while (!pilha.isEmpty()) {
             pilha.pop();
+        }
+        txt_area1.setText(pilha.toString());
+        
+        while (pilhaDesempilha.isEmpty() == false) {
             pilhaDesempilha.pop();
         }
-
-        txt_area1.setText(pilha.toString());
         txt_area2.setText(pilhaDesempilha.toString());
 
         txt_nome.setText("");
