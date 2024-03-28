@@ -1,6 +1,6 @@
-<h2>Programa de Empilhamento e Desempilhamento de Recordes em Java<h2/>
+# Programa de Empilhamento e Desempilhamento de Recordes em Java
 
-<img src="./image.jpg" alt="Exemplo imagem" width="640px">
+<img src="./image.jpg" alt="Exemplo imagem" width="980px">
 
 ### Descrição
 Este é um programa simples desenvolvido em Java que permite empilhar, desempilhar e limpar recordes. O programa oferece uma interface gráfica básica para interação do usuário, onde é possível visualizar e manipular os recordes.
