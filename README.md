@@ -1,4 +1,4 @@
-<h3>Programa de Empilhamento e Desempilhamento de Recordes em Java<h3/>
+<h2>Programa de Empilhamento e Desempilhamento de Recordes em Java<h2/>
 
 <img src="./image.jpg" alt="Exemplo imagem" width="640px">
 
@@ -24,7 +24,7 @@ Este programa não possui dependências externas. Todo o código necessário par
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de recebimento (pull requests) para melhorar este projeto.
 
 ### Autor
-LinickerOstroski - olinicker@gmail.com
+Linicker Ostroski Mota | olinicker@gmail.com
 
 
 
